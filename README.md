@@ -6,7 +6,7 @@ Hi, I’m @DeadHandConspiracy but I have gone by many different names.  I hold a
 
 # Active Projects
 - [Nature Webcam](https://)
-- Variable power regulator for board Raspberry Pi,[Power-Shim](https://)
+- Variable power regulator for board Raspberry Pi,[Power-Shim](https://github.com/DeadHandConspiracy/Power-Shim/blob/main/README.md)
 - Battlebot
 
 
