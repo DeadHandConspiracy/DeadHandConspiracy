@@ -1,14 +1,16 @@
 <!---
 DeadHandConspiracy/DeadHandConspiracy is currently under construction
 --->
+# Introduction
+Hi, I’m @DeadHandConspiracy but I have gone by many different names.  I hold a BS in electrical engineer from a HBCU.  I know a little about a lot of things.
 
-- Hi, I’m @DeadHandConspiracy but I have gone by many different names.  I hold a BS in electrical engineer from a HBCU.
+# Active Projects
+- [Nature Webcam](https://)
+- Variable power regulator for board Raspberry Pi,[Power-Shim](https://)
+- Battlebot
 
-- I'm currently working on a few projects:
-1) A nature webcam 
-2) Variable power regulator board raspberry pi
-3) building a battlebot
 
+# Contact
 - How to reach me ... I don't know if it's possible. I don't really like social media.
 
 
