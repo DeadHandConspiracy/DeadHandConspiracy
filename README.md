@@ -9,6 +9,8 @@ Hi, I’m @DeadHandConspiracy but I have gone by many different names.  I hold a
 - [Nature Webcam](https://github.com/DeadHandConspiracy/Bigfoot)
 - Variable Voltage Source board Raspberry Pi, [Power-Shim](https://github.com/DeadHandConspiracy/Power-Shim/blob/main/README.md)
 - Battlebot
+- Petri Wars
+- SVG work
 
 # Contact
 - How to reach me ... I don't know if it's possible. I don't really like social media.
