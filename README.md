@@ -5,7 +5,7 @@ DeadHandConspiracy/DeadHandConspiracy is currently under construction
 # Introduction
 Hi, I’m @DeadHandConspiracy but I have gone by many different names.  I hold a BS in electrical engineer from a HBCU.  I know a little about a lot of things.
 
-Why DeadHand?  DeadHand was a Soviet cold war doomsday weapons-control system. An example of fail-deadly and mutual assured destruction deterrence that could launch intercontinental ballistic missiles (ICBMs).  I'm a lot like it, a waste of resources, overly coomplex, and likely to go off on my own with little or no input. Why Conspiracy?  I would answer with why not? We all have Conspiracies, It's just a matter of how far you're will to go down the rabbit hole.  And like Alice, I'm "Curiouser and curiouser!"
+Why DeadHand?  DeadHand was a Soviet cold war doomsday weapons-control system. An example of fail-deadly and mutual assured destruction deterrence that could launch intercontinental ballistic missiles (ICBMs).  I'm a lot like it, a waste of resources, overly coomplex, and likely to go off on my own with little or no input. Why Conspiracy?  I would answer with why not? We all have Conspiracies, It's just a matter of how far you're willing to go down that rabbit hole and like Alice it keeps getting "Curiouser and curiouser!"
 
 # Active Projects
 - [Nature Webcam](https://github.com/DeadHandConspiracy/Bigfoot)
