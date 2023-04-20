@@ -18,4 +18,6 @@ Why DeadHand?  DeadHand was a Soviet cold war doomsday weapons-control system. A
 # Contact
 - How to reach me ... If you know me and you're cool then you know how to reachout.
 
-
+# Cause It's 4-20
+![cheech wizard](https://user-images.githubusercontent.com/90804577/233504449-4c2adda6-e193-4238-abc0-a2c8051f6fd5.svg)
+![mushroom](https://user-images.githubusercontent.com/90804577/233504467-ede0fb74-4273-4191-9d60-f984a3ef57f7.svg)
