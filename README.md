@@ -15,12 +15,5 @@ Why DeadHand?  DeadHand was a Soviet cold war doomsday weapons-control system. A
 - [My-Method-for-ICO-Making](https://github.com/DeadHandConspiracy/My-Method-for-ICO-Making/blob/main/README.md) - Create Icons from SVGs and make DLLs Icons.
 - [Digital-Toolbox](https://github.com/DeadHandConspiracy/Digital-Toolbox/blob/main/README.md) - Get order in your life.
 
-# The Sweat Pledge
-![The_SWEAT](https://user-images.githubusercontent.com/90804577/235673507-61c75f26-8797-4a12-a2b8-437edfa34098.svg)
-
 # Contact
 - How to reach me ... If you know me and you're cool then you know how to reachout.
-
-
-
-
